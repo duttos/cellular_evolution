@@ -1,0 +1,17 @@
+
+1. Get Python from 
+
+    https://www.python.org/downloads/
+
+2. Get pip (if not already installed with python)
+
+3. In the Command Prompt run
+	
+    pip install numpy
+	
+    pip install matplotlib
+
+    pip install sympy
+
+4. Depending on the version of python installed (2.x or 3.x),
+   run cellevolution_v2.x.py or cellevolution_v3.x.py
